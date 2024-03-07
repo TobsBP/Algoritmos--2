@@ -35,7 +35,7 @@ int main()
     int j; // Numero do vetor da ultima casa da direita
     int k; // Contador do for
     int num_vetor; // Numero a ser a tribuido no vetor 
-    int vetor[100]; // Armazena os numeros 
+    int vetor[100]; // Armazena os numero
 
     // Iniciei i = 0 para começar da primeira casa do vetor
     i = 0;

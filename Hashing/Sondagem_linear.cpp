@@ -21,7 +21,7 @@ int main()
     int k; // Chave 
     int j; // Posicao onde a chave k vai ser inserida
     int m; // Tamanho da tabela hash
-    int i = 0;
+    int i = 0; // Contador
 
     cin >> k >> m;
 

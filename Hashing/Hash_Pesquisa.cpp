@@ -68,7 +68,7 @@ int main()
 {
     int k; // Chave 
     int m; // Tamanho da tabela hash
-    int i;
+    int i; // Contador
     int j;
     int encontrar;
     dado t[20]; // Tabela hash

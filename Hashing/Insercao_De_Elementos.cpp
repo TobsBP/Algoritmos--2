@@ -49,7 +49,7 @@ int main()
 {
     int k; // Chave 
     int m; // Tamanho da tabela hash
-    int i = 0;
+    int i = 0; // Contador
     dado t[20]; // Tabela hash
 
     cin >>  m >> k;

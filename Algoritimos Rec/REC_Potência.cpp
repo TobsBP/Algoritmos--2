@@ -20,5 +20,6 @@ int main()
     // Exibe
     cout << poten(a, n) << endl;
 
+    // Fim
     return 0;
 }

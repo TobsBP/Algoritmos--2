@@ -14,8 +14,8 @@ int hash_aux(int k, int m)
 
 int main()
 {
-    int k;
-    int m, pos;
+    int k; // Chave
+    int m, pos; // Tamanho
 
     cin >> k >> m;
 

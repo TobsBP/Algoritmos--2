@@ -11,7 +11,7 @@ int main()
     int pos; // Armazena a posicao do numero encontrado
     int rep; // Armazena a quantidade de num digitados
 
-    // Entrada dos numeros     
+    // Entrada dos numero
     cin >> x;
     
     i = 0;

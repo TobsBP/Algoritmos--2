@@ -39,7 +39,6 @@ int main()
         pilha.pop_front(); // Remove o primeiro no da lista
     }
     
-
-
+    // Fim
     return 0;
 }

@@ -38,5 +38,6 @@ int main()
     for(p = lista; p != NULL; p = p->next)
         cout << p->info << endl;
 
+    // Fim
     return 0; 
 }

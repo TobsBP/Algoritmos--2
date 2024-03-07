@@ -23,5 +23,6 @@ int main() {
     cout << setprecision(4) << fixed;
     cout << raiz(x, x0, e) << endl;
 
+    // Fim
     return 0;
 }

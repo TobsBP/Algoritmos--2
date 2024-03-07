@@ -64,7 +64,7 @@ int main()
         tamanho++;
     }
     
-    // Chama a funcao
+    // Chama a funcão
     HeapSort(vetor, tamanho);
 
     // Exibe o vetor de tras para frente

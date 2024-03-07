@@ -81,7 +81,7 @@ int hash_remove(dado t[], int m, int k)
 int main()
 {
     int m;
-    int k;
+    int k; // Chave a ser removida
     int i;
     int j;
     dado t[20];
